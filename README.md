@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=560&lines=back-end+dev+em+forma%C3%A7%C3%A3o;python+%7C+javascript+%7C+java+%7C+c;linux+(debian%2Farch)+%7C+cibersegur%C3%A7a;aberto+a+oportunidades+remotas)](https://git.io/typing-svg)
 
 ![location](https://img.shields.io/badge/base-Engenheiro_Coelho,_SP-black?style=for-the-badge&labelColor=000000&color=39FF14)
-![status](https://img.shields.io/badge/status-estudando_ADS_@_FATEC-black?style=for-the-badge&labelColor=000000&color=39FF14)
+![status](https://img.shields.io/badge/status-estudando_ADS_em_FATEC-black?style=for-the-badge&labelColor=000000&color=39FF14)
 ![remote](https://img.shields.io/badge/foco-trabalho_remoto-black?style=for-the-badge&labelColor=000000&color=39FF14)
 
 </div>
@@ -34,18 +34,9 @@ escaláveis.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
-![Csharp](https://img.shields.io/badge/-C%23_(em_progresso)-000000?style=for-the-badge&logo=csharp&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Debian](https://img.shields.io/badge/-Debian-000000?style=for-the-badge&logo=debian&logoColor=39FF14)
-![ArchLinux](https://img.shields.io/badge/-Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=39FF14)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)
+<img src="https://skillicons.dev/icons?i=py,js,java,c,cs,html,css,linux,git,github&theme=dark" alt="stack icons" />
+
+<sub>C# em progresso</sub>
 
 </div>
 
@@ -97,9 +88,7 @@ es      intermediário (B1)
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Lorran207&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorran207&hide_border=true&background=00000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)
+![stats](https://github-readme-stats.vercel.app/api?username=Lorran207&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&cache_seconds=86400)
 
 </div>
 
