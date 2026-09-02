@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=560&lines=back-end+dev+em+forma%C3%A7%C3%A3o;python+%7C+javascript+%7C+java+%7C+c;linux+(debian%2Farch)+%7C+cibersegur%C3%A7a;aberto+a+oportunidades+remotas)](https://git.io/typing-svg)
 
-![location](https://img.shields.io/badge/base-Engenheiro_Coelho,_SP-black?style=for-the-badge&labelColor=000000&color=39FF14)
+![location](https://img.shields.io/badge/base-São-Paulo,_SP-black?style=for-the-badge&labelColor=000000&color=39FF14)
 ![status](https://img.shields.io/badge/status-estudando_ADS_em_FATEC-black?style=for-the-badge&labelColor=000000&color=39FF14)
 ![remote](https://img.shields.io/badge/foco-trabalho_remoto-black?style=for-the-badge&labelColor=000000&color=39FF14)
 
