@@ -86,9 +86,11 @@ es      intermediário (B1)
 
 ---
 
+## `$ cat langs.txt`
+
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Lorran207&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorran207&layout=donut&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=39FF14&langs_count=8&cache_seconds=86400" alt="top languages" />
 
 </div>
 
