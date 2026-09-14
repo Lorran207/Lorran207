@@ -90,7 +90,7 @@ es      intermediário (B1)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorran207&layout=donut&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=39FF14&langs_count=8&cache_seconds=86400" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorran207&layout=pie&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=39FF14&langs_count=8&cache_seconds=86400" alt="top languages pie chart" />
 
 </div>
 
